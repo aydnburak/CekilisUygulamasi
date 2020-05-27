@@ -1,1 +1,1 @@
-# -ekili-Uygulamas-
+# Çekiliş Uygulaması
